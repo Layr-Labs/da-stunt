@@ -1,0 +1,9 @@
+python-dotenv
+grpcio
+grpcio-tools
+solana
+python-snappy
+protobuf
+psycopg2-binary
+web3
+requests

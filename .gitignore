@@ -1,0 +1,6 @@
+.env
+env
+venv
+*.snappy
+*.swp
+__pycache__
