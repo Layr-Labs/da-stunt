@@ -132,7 +132,6 @@ async def process_block(block_info):
 
         # Log block information
         request_id = response.request_id.decode('utf-8')
-        print(f"request_id {request_id}")
 
         log_block_info_to_db(block_number, len(snappy_data), request_id)
 
